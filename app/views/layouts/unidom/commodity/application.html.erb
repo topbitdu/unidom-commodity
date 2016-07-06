@@ -3,12 +3,13 @@
 <head>
   <title>Unidom Commodity</title>
   <%= stylesheet_link_tag    "commodity/application", media: "all" %>
-  <%= javascript_include_tag "commodity/application" %>
   <%= csrf_meta_tags %>
 </head>
 <body>
 
 <%= yield %>
+
+<%= javascript_include_tag "commodity/application" %>
 
 </body>
 </html>
