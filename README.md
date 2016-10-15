@@ -1,6 +1,7 @@
 # Unidom Commodity 商品领域模型引擎
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](http://opensource.org/licenses/MIT)
+[![Gem Version](https://badge.fury.io/rb/unidom-commodity.svg)](https://badge.fury.io/rb/unidom-commodity)
 [![Dependency Status](https://gemnasium.com/badges/github.com/topbitdu/unidom-commodity.svg)](https://gemnasium.com/github.com/topbitdu/unidom-commodity)
 
 Unidom (UNIfied Domain Object Model) is a series of domain model engines. The Commodity domain model engine includes Commodity and its relative models.
